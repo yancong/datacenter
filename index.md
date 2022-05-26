@@ -1,4 +1,4 @@
-<span style="color: green">Welcome to Looking for the Cloud: a data center walking tour at Science Park, Amsterdam </span>
+<span style="color: #FFFFFF">Welcome to Looking for the Cloud: a data center walking tour at Science Park, Amsterdam </span>
 
 Below are documentations of the walking tour:
 
