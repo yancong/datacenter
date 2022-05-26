@@ -1,11 +1,10 @@
-## Welcome to Looking for the Cloud
-###a data center walking tour at Science Park, Amsterdam
+### Welcome to Looking for the Cloud: a data center walking tour at Science Park, Amsterdam
 
 Below are documentations of the walking tour:
 
-**[Text script of the walking tour](https://docs.google.com/document/d/1UdR0nZzYm5bE6HU1GwBc9xzGpMu-6eJfcLy2GhZdpsg/edit#)**
+**Text script of the walking tour:** [Click here](https://docs.google.com/document/d/1UdR0nZzYm5bE6HU1GwBc9xzGpMu-6eJfcLy2GhZdpsg/edit#)
 
-**Follow the walking tour on the map!**
+**For people who could not join the tour, do a virtual walking tour on the map!**
 <iframe src="https://uploads.knightlab.com/storymapjs/fbefadb0bc9052a60ad654962178beae/data-center/index.html" frameborder="0" width="100%" height="800"></iframe>
 
 **How hyperscale data centers change the landscape**
