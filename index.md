@@ -2,15 +2,15 @@
 
 Below are documentations of the walking tour:
 
-**Annotated text script of the walking tour with participants contribution:** [click here](https://docs.google.com/document/d/1UdR0nZzYm5bE6HU1GwBc9xzGpMu-6eJfcLy2GhZdpsg/edit#)
+1. Documentation of the walking tour: [click here](https://docs.google.com/document/d/1UdR0nZzYm5bE6HU1GwBc9xzGpMu-6eJfcLy2GhZdpsg/edit#)
 
 
-**For people who could not join the tour, do a virtual walking tour on the map!**
+2. Could not join the tour? Do a virtual walking tour on the map!
 [click here to view on a new page](https://yancong.github.io/datacenter/map)
 <iframe src="https://uploads.knightlab.com/storymapjs/fbefadb0bc9052a60ad654962178beae/data-center/index.html" frameborder="0" width="100%" height="800"></iframe>
 
 
-**How hyperscale data centers change the landscape**
+3. How hyperscale data centers change the landscape
 - at Middenmeer
 In the images below, both Google and Microsoft's data centers are visible. [click here to view on a new page](https://yancong.github.io/datacenter/middenmeer-comparison)
 <iframe frameborder="0" class="juxtapose" width="100%" height="720" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=074d9904-ce06-11ec-b5bb-6595d9b17862"></iframe>
