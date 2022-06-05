@@ -1,6 +1,8 @@
 <span style="color: #FFFFFF">Welcome to Looking for the Cloud: a data center walk in Science Park, Amsterdam </span>
 
-The walking tour took place on May 27, 2022. I'm open to organize more walks both with individuals or small groups. If you'd like to join please write to yancongphoto _ (at) _ gmail _ (dot) _ com
+The walking tour took place on May 27, 2022. I'd like to organize more walks —— if you're interested in joining a future walk please write to yancongphoto _ (at) _ gmail _ (dot) _ com
+
+If you'd like to explore other data center-dense areas in Amsterdam together, please also reach out to me!
 
 1. Documentation of the walking tour: [click here](https://docs.google.com/document/d/1UdR0nZzYm5bE6HU1GwBc9xzGpMu-6eJfcLy2GhZdpsg/edit#)
 
