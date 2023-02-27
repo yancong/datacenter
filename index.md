@@ -5,10 +5,12 @@ The walking tour took place on May 27, 2022. I'd like to organize more walks —
 If you'd like to explore other data center-dense areas in Amsterdam together, please also reach out to me!
 
 ***NEW!*** 
-I created a zine using [a web2print template built with Paged.js](https://gitlab.coko.foundation/pagedjs/starter-kits)! You can [download the zip and follow the instructions to print](https://yancong.github.io/datacenter/Data%20Center%20Walk%20zine%20for%20print.zip). Or [download the for-screen pdf](https://yancong.github.io/datacenter/Data%20Center%20Walk%20zine%20for%20screen.pdf).
+I created a zine using [a web2print template built with Paged.js](https://gitlab.coko.foundation/pagedjs/starter-kits)! You can [download the zip and follow the instructions to print from your browser](https://yancong.github.io/datacenter/Data%20Center%20Walk%20zine%20for%20print.zip). Or [download the for-screen pdf](https://yancong.github.io/datacenter/Data%20Center%20Walk%20zine%20for%20screen.pdf).
+Making this zine through web-to-print tools is truly a learning experience regarding web standards and an exploration on how to work and publish without The Cloud.
+
 ---
 
-1. Documentation of the walking tour: [click here](https://docs.google.com/document/d/1UdR0nZzYm5bE6HU1GwBc9xzGpMu-6eJfcLy2GhZdpsg/edit#)
+1. Documentation of the walk: [click here](https://docs.google.com/document/d/1UdR0nZzYm5bE6HU1GwBc9xzGpMu-6eJfcLy2GhZdpsg/edit#)
 
 
 2. Could not join the tour? Do a virtual walking tour on the map!
