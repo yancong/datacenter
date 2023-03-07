@@ -1,6 +1,11 @@
 ## Printing instructions
 
-- Use any local server.
+Thank you for your interest in this Web-to-print experiment.
+
+Follow the instructions below to print this zine yourself:
+
+- Download this folder
+- Use any local server
 - open `index.html` in your browser (chrome or firefox should both work)
 - Print from the browser (crtl+p), set margin to none (0)
 - In preview, you should see a book fold layout for a A5 size zine
@@ -18,7 +23,7 @@ https://gitlab.coko.foundation/pagedjs/starter-kits
 - `reload-in-place.js` v1.3 by Nicolas Taffin and Sameh Chafik
 
 
-## Licence
+## Template Licence
 
 MIT License https://opensource.org/licenses/MIT
 Developped by Julie Blanc ([julie-blanc.fr](https://julie-blanc.fr/en/))
