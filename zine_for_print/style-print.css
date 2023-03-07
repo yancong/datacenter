@@ -1,0 +1,67 @@
+template {
+    --paged-layout: booklet;
+}
+
+@page {
+    size: 148mm 210mm;
+    margin: 17mm 20mm 17mm 20mm;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    @bottom-center {
+        content: counter(page);
+    }
+    @top-center {
+        content:'Looking for The Cloud in Science Park'
+    }
+}
+
+@page:left{
+    margin:17mm 10mm 17mm 20mm;
+
+}
+
+@page:right{
+    margin:17mm 20mm 17mm 10mm;
+}
+
+@media print{
+    img{
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+
+@page:first{
+    margin:17mm 20mm 17mm 20mm;
+    @bottom-center{
+        content: none;
+    }
+    @top-center{
+        content: none;
+    }
+}
+
+
+
+
+/*section.chapter {
+    break-before: right;
+}
+*/
+
+h3 {
+    break-before:always;
+    break-after: avoid;
+}
+
+h5 {
+    break-after: avoid;
+}
+
+
+/* 
+#credit {
+    break-before:avoid;
+}
+*/
