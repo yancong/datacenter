@@ -2,10 +2,12 @@ Welcome to Looking for The Cloud: a data center walk in Science Park, Amsterdam
 
 The walking tour took place on May 27, 2022. More walks are being planned for 2023 —— if you're interested in joining a future walk please write to yancongphoto _ (at) _ gmail _ (dot) _ com
 
-#### ***UPDATED MARCH 2023*** 
+#### ***ZINE UPDATE MARCH 2023*** 
 I created a zine using [a web2print template built with Paged.js](https://gitlab.coko.foundation/pagedjs/starter-kits)! You can [download the folder and follow the instructions to print from your browser](https://github.com/yancong/datacenter/tree/zine). Or [download the for-screen pdf](https://yancong.github.io/datacenter/zine_for_screen.pdf).
 
 Making this zine is not only an experiment of web-to-print, it is also a learning experience on how to work and publish without The Cloud.
+
+----
 
 **Documentation of the walk:** [Google Doc](https://docs.google.com/document/d/1UdR0nZzYm5bE6HU1GwBc9xzGpMu-6eJfcLy2GhZdpsg/edit#)
 
