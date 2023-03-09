@@ -3,7 +3,8 @@
 Thank you for your interest in this Web-to-print experiment. 
 
 > If you just want to read the zine on screen, [download the pdf here](https://yancong.github.io/datacenter/zine_for_screen.pdf)
-> If you're ready to print the zine yourself, follow the instructions below:
+
+If you're ready to print the zine yourself, follow the instructions below:
 
 - Download this folder
 - Use any local server
