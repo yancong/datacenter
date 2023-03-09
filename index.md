@@ -7,12 +7,14 @@ I created a zine using [a web2print template built with Paged.js](https://gitlab
 
 Making this zine is not only an experiment of web-to-print, it is also a learning experience on how to work and publish without The Cloud.
 
-#### Documentation of the walk: [click here](https://docs.google.com/document/d/1UdR0nZzYm5bE6HU1GwBc9xzGpMu-6eJfcLy2GhZdpsg/edit#)
+**Documentation of the walk:** [Google Doc](https://docs.google.com/document/d/1UdR0nZzYm5bE6HU1GwBc9xzGpMu-6eJfcLy2GhZdpsg/edit#)
 
-#### Could not join the tour? Do a virtual walking tour on the map!
-[click here to view on a new page](https://yancong.github.io/datacenter/map)
+**Virtual walk on the map** 
 <iframe src="https://uploads.knightlab.com/storymapjs/fbefadb0bc9052a60ad654962178beae/data-center/index.html" frameborder="0" width="100%" height="800"></iframe>
-/n
+[click here to view on a new page](https://yancong.github.io/datacenter/map)
+
+<br>
+
 #### Explore further: How hyperscale data centers change the landscape
 - at Middenmeer
 In the images below, both Google and Microsoft's data centers are visible. [click here to view on a new page](https://yancong.github.io/datacenter/middenmeer-comparison)
