@@ -1,8 +1,9 @@
 ## Printing instructions
 
-Thank you for your interest in this Web-to-print experiment.
+Thank you for your interest in this Web-to-print experiment. 
 
-Follow the instructions below to print this zine yourself:
+> If you just want to read the zine on screen, [download the pdf here](https://yancong.github.io/datacenter/zine_for_screen.pdf)
+> If you're ready to print the zine yourself, follow the instructions below:
 
 - Download this folder
 - Use any local server
